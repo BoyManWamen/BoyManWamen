@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Huy Hoang</h1>
+<h1 align="center">Hello, I'm Julian Lee</h1>
 <h3 align="center">A Computer Science Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boymanwamen&label=Profile%20views&color=0e75b6&style=flat" alt="boymanwamen" /> </p>
